@@ -77,7 +77,7 @@ author:
       url: "https://linkedin.com/in/{{linkedin_username}}"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-graduation-cap"
-      url: "https://instagram.com/{{instagram_username}}"
+      url: "https://scholar.google.com/citations?user=__TieV0AAAAJ&hl=en"
 
 footer:
   links:

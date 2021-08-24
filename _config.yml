@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Heta Gandhi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD candidate in Computational Chemistry at University of Rochester"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -73,22 +73,25 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/{{github_username}}"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/{{linkedin_username}}"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-graduation-cap"
-      url: "https://instagram.com/{{instagram_username}}"
+      url: "https://scholar.google.com/citations?user=__TieV0AAAAJ&hl=en"
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "https://mailto:{{email}}"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/{{twitter_username}}"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/{{github_username}}"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/{{linkedin_username}}"
 
 defaults:

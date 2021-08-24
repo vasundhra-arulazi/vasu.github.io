@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My Academic Website!
+title: Heta A. Gandhi
 email: heta.gandhi@rochester.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi! I am Heta Gandhi, a PhD candidate in Chemical Engineering
+  at the University of Rochester.  My research focuses on applying 
+  Computational Methods and Machine Learning to solve Chemistry 
+  and Chemical Engineering problems.
 twitter_username: gandhi_heta
 github_username: hgandhi2411
 linkedin_username: hetagandhi
@@ -59,9 +60,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Heta Gandhi"
+  name   : "Heta A. Gandhi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD candidate in Computational Chemistry at University of Rochester"
+  bio    : "PhD candidate in Chemical Engineering at University of Rochester, 
+  working in the [Whitelab](http://thewhitelab.org/)"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -76,7 +78,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/{{linkedin_username}}"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=__TieV0AAAAJ&hl=en"
 
 footer:

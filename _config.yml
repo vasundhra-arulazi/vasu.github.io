@@ -63,7 +63,7 @@ author:
   name   : "Heta A. Gandhi"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "PhD candidate in Chemical Engineering at University of Rochester, 
-  working in the [Whitelab](http://thewhitelab.org/)"
+  working in the <span style="color:blue">[Whitelab](http://thewhitelab.org/)<span>
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"

@@ -55,7 +55,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -63,20 +63,20 @@ author:
   name   : "Heta A. Gandhi"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "PhD candidate in Chemical Engineering at University of Rochester, 
-  working in the <span style="color:blue">[Whitelab](http://thewhitelab.org/)<span>
+  working in the <span style='color:cyan'>[Whitelab](http://thewhitelab.org/)<span>"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://mailto:{{email}}"
+      url: "https://mailto:heta.gandhi@rochester.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/{{twitter_username}}"
+      url: "https://twitter.com/gandhi_heta"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/{{github_username}}"
+      url: "https://github.com/hgandhi2411"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/{{linkedin_username}}"
+      url: "https://linkedin.com/in/hetagandhi"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=__TieV0AAAAJ&hl=en"
@@ -85,16 +85,16 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://mailto:{{email}}"
+      url: "https://mailto:heta.gandhi@rochester.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/{{twitter_username}}"
+      url: "https://twitter.com/gandhi_heta"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/{{github_username}}"
+      url: "https://github.com/hgandhi2411"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/{{linkedin_username}}"
+      url: "https://linkedin.com/in/hetagandhi"
 
 defaults:
   # _posts
@@ -103,14 +103,14 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single

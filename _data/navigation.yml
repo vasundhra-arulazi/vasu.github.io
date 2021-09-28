@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /about/
+    url: https://hgandhi2411.github.io
   - title: "Publications"
     url: /publications/
   - title: "Curriculum Vitae"

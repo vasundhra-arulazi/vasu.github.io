@@ -176,7 +176,7 @@ audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
 /* Prevents modern browsers from displaying 'audio' without controls */
 audio:not([controls]) { display: none; }
 
-a { color: #0000ff; }
+a { color: #369dd8; }
 
 /* Apply focus state */
 /* Remove outline from links */
@@ -835,6 +835,17 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
 .wrapper { margin-left: auto; margin-right: auto; width: 100%; }
 
 /* Images ========================================================================== */
+/* Image drope shadow*/
+.pub-img {
+  max-width: 100%;
+  max-height: 200px;
+  margin-bottom: 24px;
+  padding: 5px;
+  background:#FFF;
+  box-shadow: 3px 3px 6px grey;
+}
+@media @media (min-width: 37.5em) { .align-left { float: left; margin-right: 1em; } }
+
 /* image align left */
 .align-left { display: block; margin-left: auto; margin-right: auto; }
 @media (min-width: 37.5em) { .align-left { float: left; margin-right: 1em; } }
@@ -960,7 +971,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .page__content h2 { padding-bottom: 0.5em; border-bottom: 1px solid #bfbfbf; }
 .page__content h1 .header-link, .page__content h2 .header-link, .page__content h3 .header-link, .page__content h4 .header-link, .page__content h5 .header-link, .page__content h6 .header-link { position: relative; left: 0.5em; opacity: 0; font-size: 0.8em; -webkit-transition: opacity 0.2s ease-in-out 0.1s; -moz-transition: opacity 0.2s ease-in-out 0.1s; -o-transition: opacity 0.2s ease-in-out 0.1s; transition: opacity 0.2s ease-in-out 0.1s; }
 .page__content h1:hover .header-link, .page__content h2:hover .header-link, .page__content h3:hover .header-link, .page__content h4:hover .header-link, .page__content h5:hover .header-link, .page__content h6:hover .header-link { opacity: 1; }
-.page__content p, .page__content li, .page__content dl { font-size: 0.85em; }
+.page__content p, .page__content li, .page__content dl { font-size: 1em; }
 .page__content p { margin: 0 0 1.3em; /* sibling indentation*/ }
 .page__content a:not(.btn):hover { text-decoration: underline; }
 .page__content a:not(.btn):hover img { box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
@@ -1280,3 +1291,5 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .page__hero-caption a { color: #000 !important; }
   /* Hide the following elements on print ========================================================================== */
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
+
+/*===========================================================================================================================================*/

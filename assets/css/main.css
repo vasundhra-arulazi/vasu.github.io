@@ -844,7 +844,7 @@ body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .vi
   background:#FFF;
   box-shadow: 3px 3px 6px grey;
 }
-@media @media (min-width: 37.5em) { .align-left { float: left; margin-right: 1em; } }
+@media (min-width: 37.5em) { .align-left { float: left; margin-right: 1em; } }
 
 /* image align left */
 .align-left { display: block; margin-left: auto; margin-right: auto; }

@@ -6,7 +6,7 @@ title: "Publications"
 Ansari, M.<sup>\*</sup>, **Gandhi, H. A.<sup>\*</sup>**, Foster, D. G. & White, A. D. [Iterative symbolic regression for learning transport equations](https://arxiv.org/abs/2108.03293). Preprint *arXiv*:2108.03293 (**2021**).\
 <img class="pub-img" src="../assets/images/al-cfd.jpg" height="200px">
 
-**Gandhi, H. A.** & White, A. D. [City-wide modeling of vehicle-to-grid economics to understand effects of battery performance](https://arxiv.org/abs/2108.05837). Preprint *arXiv*:2108.05837 (**2021**).\
+**Gandhi, H. A.** & White, A. D. [City-wide modeling of vehicle-to-grid economics to understand effects of battery performance](https://doi.org/10.1021/acssuschemeng.1c05490). *ACS Sustainable Chemistry and Engineering.* ASAP (**2021**).\
 <img class="pub-img" src="../assets/images/v2g.jpg" height="200px">
 
 **Gandhi, H. A.**, Jakymiw, S., Barrett, R., Mahaseth, H. & White, A. D. [Real-time interactive simulation and visualization of organic molecules](https://pubs.acs.org/doi/abs/10.1021/acs.jchemed.9b01161). *Journal of Chemical Education* 97, 11, 4189–4195(**2020**).\

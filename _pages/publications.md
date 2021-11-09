@@ -20,3 +20,5 @@ Li, Z., Wellawatte, G. P., Chakraborty, M., **Gandhi, H. A.**, Xu, C. & White, A
 
 Barrett, R., **Gandhi, H. A.**, Naganathan, A., Daniels, D., Zhang, Y., Onwunaka, C., Luehmann, A. & White, A. D. [Social and tactile mixed reality increases student engagement in undergraduate lab activities](https://pubs.acs.org/doi/abs/10.1021/acs.jchemed.8b00212). *Journal of Chemical Education* 95, 1755–1762 (**2018**).\
 <img class="pub-img" src="../assets/images/ar.jpg" height="200px">
+
+**Gandhi, H. A.** [Plasma gasification: from a dirty city to a heavenly place and from waste solids to clean fuel](https://ijirst.org/Article.php?manuscript=IJIRSTV1I11008) *International Journal for Innovative Research in Science & Technology*, 1, 11, 18-24 (**2015**).\

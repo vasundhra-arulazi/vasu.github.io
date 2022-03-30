@@ -7,7 +7,7 @@ I'm a PhD candidate in the Department of Chemical Engineering at the University 
 
 Outside of my research, I like taking up activities that help me get out of my comfort zone. Few of my many interests include going on outdoor adventures, and reading non-fiction [books](https://hgandhi2411.github.io/books/). Latest addition to that list is sketching, still a novice though. 
 
-
-<img class="pub-img" src="../assets/images/compchem.png" width="200px">
-<img class="pub-img" src="../assets/images/ml.png" width="200px">
-<img class="pub-img" src="../assets/images/programming.png" width="200px">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img class="img" src="../assets/images/compchem.png" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img class="img" src="../assets/images/ml.png" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img class="img" src="../assets/images/programming.png" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;

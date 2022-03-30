@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My Academic Website!
+title: Heta A. Gandhi
 email: heta.gandhi@rochester.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi! I am Heta Gandhi, a PhD candidate in Chemical Engineering
+  at the University of Rochester.  My research focuses on applying 
+  Computational Methods and Machine Learning to solve Chemistry 
+  and Chemical Engineering problems.
 twitter_username: gandhi_heta
 github_username: hgandhi2411
 linkedin_username: hetagandhi
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -54,42 +55,46 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
-  name   : "Heta Gandhi"
+  name   : "Heta A. Gandhi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD candidate in Chemical Engineering at University of Rochester, 
+  working in the [Whitelab](http://thewhitelab.org/)"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://mailto:{{email}}"
+      url: "https://mailto:heta.gandhi@rochester.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/{{twitter_username}}"
+      url: "https://twitter.com/gandhi_heta"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/{{github_username}}"
+      url: "https://github.com/hgandhi2411"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://linkedin.com/in/{{linkedin_username}}"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/hetagandhi"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=__TieV0AAAAJ&hl=en"
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "https://mailto:heta.gandhi@rochester.edu"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/{{twitter_username}}"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/gandhi_heta"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/{{github_username}}"
+      url: "https://github.com/hgandhi2411"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://linkedin.com/in/{{linkedin_username}}"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/hetagandhi"
 
 defaults:
   # _posts
@@ -98,14 +103,14 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single

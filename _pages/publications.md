@@ -3,7 +3,10 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Ansari, M.<sup>\*</sup>, **Gandhi, H. A.<sup>\*</sup>**, Foster, D. G. & White, A. D. [Iterative symbolic regression for learning transport equations](https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.17695). *AIChE Journal* (*Accepted*) (**2022**).\
+**Gandhi, H. A.** & White, A. D. [Explaining structure-activity relationships using locally faithful surrogate models](https://chemrxiv.org/engage/chemrxiv/article-details/62753b1459f0d6f41a8642c4). *ChemRxiv* (**2022**).\
+<img class="pub-img" src="../assets/images/xai.png" height="200px">
+
+**Gandhi, H. A.<sup>\*</sup>**, Ansari, M.<sup>\*</sup>, Foster, D. G. & White, A. D. [Iterative symbolic regression for learning transport equations](https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.17695). *AIChE Journal* (*Accepted*) (**2022**).\
 <img class="pub-img" src="../assets/images/al-cfd.jpg" height="200px">
 
 **Gandhi, H. A.** & White, A. D. [City-wide modeling of vehicle-to-grid economics to understand effects of battery performance](https://doi.org/10.1021/acssuschemeng.1c05490). *ACS Sustainable Chemistry and Engineering* 9, 44, 14975–14985 (**2021**).\

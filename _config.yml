@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Heta A. Gandhi
-email: heta.gandhi@rochester.edu
+title: Sam Cox
+email: swrig30@ur.rochester.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! My name is Sam Cox, and I am a 2nd year PhD student in Chemical Engineering
   at the University of Rochester (Rochester, NY).  My research is focused on developing and applying computational tools to solve chemistry and chemical engineering problems.

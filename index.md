@@ -9,4 +9,4 @@ Outside of my research, I like to participate in a wide variety of activities, a
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/sym.png" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/ml.png" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img class="img" src="../assets/images/tek.png" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img class="img" src="../assets/images/trek.png" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;

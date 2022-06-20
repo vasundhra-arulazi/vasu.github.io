@@ -16,13 +16,10 @@
 title: Heta A. Gandhi
 email: heta.gandhi@rochester.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I am Heta Gandhi, a PhD candidate in Chemical Engineering
-  at the University of Rochester.  My research focuses on applying 
-  Computational Methods and Machine Learning to solve Chemistry 
-  and Chemical Engineering problems.
-twitter_username: gandhi_heta
-github_username: hgandhi2411
-linkedin_username: hetagandhi
+  Hi! My name is Sam Cox, and I am a 2nd year PhD student in Chemical Engineering
+  at the University of Rochester (Rochester, NY).  My research is focused on developing and applying computational tools to solve chemistry and chemical engineering problems.
+twitter_username: SamCox822
+github_username: SamCox822
 minimal_mistakes_skin: contrast
 search: true
 
@@ -60,42 +57,36 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Heta A. Gandhi"
+  name   : "Sam Cox"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD candidate in Chemical Engineering at University of Rochester, 
+  bio    : "2nd Year PhD student in Chemical Engineering at University of Rochester, 
   working in the [Whitelab](http://thewhitelab.org/)"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://mailto:heta.gandhi@rochester.edu"
+      url: "https://mailto:swrig30@ur.rochester.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/gandhi_heta"
+      url: "https://twitter.com/SamCox822"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hgandhi2411"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/hetagandhi"
+      url: "https://github.com/SamCox822"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=__TieV0AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=JtKUP-YAAAAJ&hl=en"
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://mailto:heta.gandhi@rochester.edu"
+      url: "https://mailto:swrig30@ur.rochester.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/gandhi_heta"
+      url: "https://twitter.com/SamCox822"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hgandhi2411"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/hetagandhi"
-
+      url: "https://github.com/SamCox822"
+      
 defaults:
   # _posts
   - scope:

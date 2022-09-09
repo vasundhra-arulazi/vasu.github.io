@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sam Cox
-email: swrig30@ur.rochester.edu
+email: samantha.cox@rochester.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! My name is Sam Cox, and I am a 2nd year PhD student in Chemical Engineering
   at the University of Rochester (Rochester, NY).  My research is focused on developing and applying computational tools to solve chemistry and chemical engineering problems.
@@ -64,7 +64,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://mailto:swrig30@ur.rochester.edu"
+      url: "https://mailto:samantha.cox@rochester.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/SamCox822"
@@ -79,7 +79,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://mailto:swrig30@ur.rochester.edu"
+      url: "https://mailto:samantha.cox@rochester.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/SamCox822"

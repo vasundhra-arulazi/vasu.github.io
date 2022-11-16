@@ -9,7 +9,10 @@ title: "Dog Pictures"
 <img class="img" src="../assets/images/pups1.jpg" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/pups2.jpg" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+
 **Dax**
+
 <img class="img" src="../assets/images/Dax1.JPG" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/Dax2.JPG" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/Dax3.JPG" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,12 +25,18 @@ title: "Dog Pictures"
 <img class="img" src="../assets/images/Dax10.jpg" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/Dax11.jpg" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+
 **Zia**
+
 <img class="img" src="../assets/images/Zia1.JPG" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/Zia2.JPG" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/Zia3.jpg" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/Zia4.JPEG" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/Zia5.JPEG" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/Zia6.JPEG" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 **Honorable Mention : Oatmal**
+
 <img class="img" src="../assets/images/Oatmeal.JPG" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;

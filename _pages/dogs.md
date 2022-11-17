@@ -37,6 +37,6 @@ title: "Dog Pictures"
 <img class="img" src="../assets/images/Zia6.JPEG" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-**Honorable Mention : Oatmal**
+**Honorable Mention : Oatmeal**
 
 <img class="img" src="../assets/images/Oatmeal.JPG" width="100px">&nbsp;&nbsp;&nbsp;&nbsp;

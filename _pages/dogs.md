@@ -33,7 +33,7 @@ title: "Dog Pictures"
 <img class="img" src="../assets/images/Zia3.jpg" width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/Zia4.JPEG" width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/Zia5.JPEG" width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img class="img" src="../assets/images/Zia6.JPEG"width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img class="img" src="../assets/images/Zia6.JPEG" width="100px" height="100px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 **Honorable Mention : Oatmeal**

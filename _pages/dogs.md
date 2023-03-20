@@ -14,7 +14,6 @@ title: "Dog Pictures"
 <img class="img" src="../assets/images/Dax7.jpg" width="200px" height="200px">
 <img class="img" src="../assets/images/Dax8.jpg" width="200px" height="200px">
 <img class="img" src="../assets/images/Dax9.jpg" width="200px" height="200px">
-<img class="img" src="../assets/images/Dax10.jpg" width="200px" height="200px">
 
 
 

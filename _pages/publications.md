@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Publications and Chapters"
 ---
 
 **Cox, Sam.** & White, A. D. [Symmetric Molecular Dynamics](https://pubs.acs.org/doi/10.1021/acs.jctc.2c00401). (**2022**). [(code available here)](https://github.com/whitead/symd).\

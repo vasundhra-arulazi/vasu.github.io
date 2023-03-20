@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: https://samcox822.github.io
-  - title: "Publications and Chapters"
+  - title: "Publications"
     url: /publications/
   - title: "Talks"
     url: /talks/

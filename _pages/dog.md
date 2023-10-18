@@ -1,9 +1,7 @@
 ---
 permalink: /dog/
-title: "Dog Pictures"
+title: "Laddu"
 ---
-
-**Laddu**
 
 <img class="img" src="../assets/images/Laddu1.jpg" width="200px" height="200px">
 <img class="img" src="../assets/images/Laddu2.jpg" width="200px" height="200px">

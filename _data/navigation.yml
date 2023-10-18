@@ -1,11 +1,5 @@
 main:
   - title: "About"
-    url: https://samcox822.github.io
-  - title: "Publications"
-    url: /publications/
-  - title: "Talks"
-    url: /talks/
-  - title: "Curriculum Vitae"
-    url: https://drive.google.com/file/d/1jDLgoJ8ktu5Q81yW-ac59tH1NBlHJns_/view?usp=sharing
+    url: https://vasu.github.io
   - title: "Dog Pics"
-    url: /dogs/
+    url: /dog/

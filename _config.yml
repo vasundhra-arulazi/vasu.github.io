@@ -13,13 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sam Cox
-email: samantha.cox@rochester.edu
+title: Vasundhra Arulazi
+email: vasundhra.arulazi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! My name is Sam Cox, and I am a 2nd year PhD student in Chemical Engineering
-  at the University of Rochester (Rochester, NY).  My research is focused on developing and applying computational tools to solve chemistry and chemical engineering problems.
-twitter_username: SamCox822
-github_username: SamCox822
+  Hi! My name is Vasundhra Arulazi, and I am a junior at Elkins High School (Missouri City, TX). I am an aspiring Aerospace engineer.
+github_username: vasundhra-arulazi
 minimal_mistakes_skin: contrast
 search: true
 
@@ -57,35 +55,28 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sam Cox"
+  name   : "Vasundhra Arulazi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "2nd Year PhD student in Chemical Engineering at University of Rochester, 
-  working in the [Whitelab](http://thewhitelab.org/)"
+  bio    : "Junior at [Elkins High School](https://www.fortbendisd.com/ehs)"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://mailto:samantha.cox@rochester.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/SamCox822"
+      url: "mailto:vasundhra.arulazi@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/SamCox822"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=JtKUP-YAAAAJ&hl=en"
+      url: "https://github.com/vasundhra-arulazi"
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "https://mailto:samantha.cox@rochester.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/SamCox822"
+      url: "mailto:vasundhra.arulazi@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/vasundhra-arulazi/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/SamCox822"
+      url: "https://github.com/vasundhra-arulazi"
       
 defaults:
   # _posts

@@ -1,5 +1,5 @@
 ---
-permalink: /dogs/
+permalink: /dog/
 title: "Dog Pictures"
 ---
 

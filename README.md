@@ -1,2 +1,2 @@
 ### PERSONAL WEBSITE ✨✨💻🧪
-[vasu.github.io](https://vasu.github.io/)
+[vasundhra-arulazi.github.io](https://vasundhra-arulazi.github.io/)

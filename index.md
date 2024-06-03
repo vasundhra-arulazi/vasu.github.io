@@ -2,9 +2,9 @@
 title: "About Me"
 author_profile: true
 ---
-Hi! My name is Vasundhra Arulazi, and I am a junior at [Lawrence E. Elkins](https://www.fortbendisd.com/ehs) High School in Texas. My goal is to become an Aerospace engineer in the future.
+Hi! My name is Vasundhra Arulazi, and I am a senior at [Lawrence E. Elkins](https://www.fortbendisd.com/ehs) High School in Texas (Class of 2025). I plan to major in Aerospace Engineering.
 
-Outside of my school, I have a keen interest in photography, particularly astrophotography, and art. I am also an animal lover and enjoy spending time with my furry friends. You can find some adorable pictures of my dog in the [dog pics](https://vasundhra-arulazi.github.io/dog/) section.
+Outside of my school, I have a strong interest in photography, particularly astrophotography and art. During the weekends, I volunteer at the East Dome in George Observatory in operating the telescope for public viewing. I also represent Fort Bend Astronomy Club in outreach events. I am also an animal lover and enjoy spending time with my furry friends. You can find some adorable pictures of my dog in the [dog pics](https://vasundhra-arulazi.github.io/dog/) section.
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img class="img" src="../assets/images/rocket.png" width="350px">&nbsp;&nbsp;&nbsp;&nbsp;

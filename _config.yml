@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Vasundhra Arulazi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Junior at [Elkins High School](https://www.fortbendisd.com/ehs)"
+  bio    : "Senior at [Elkins High School](https://www.fortbendisd.com/ehs)"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"

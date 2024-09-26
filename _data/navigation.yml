@@ -1,5 +1,7 @@
 main:
   - title: "About"
     url: https://vasundhra-arulazi.github.io
+  - title: "Publications"
+    url: /publications/
   - title: "Dog Pics"
     url: /dog/
